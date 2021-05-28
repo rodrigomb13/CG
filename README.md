@@ -1,2 +1,2 @@
 # CG
-Computação gráfica
+Exercicios da materia de Computação gráfica
